@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f154a61c-7c08-4e8c-ba07-15b7fc48b72c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelo/TituloOmdb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenmatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/screenmatch.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal/PrincipalBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal/PrincipalBusca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelo/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelo/Titulo.java" afterDir="false" />
     </list>
@@ -88,8 +86,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.PrincipalBusca" />
-      <item itemvalue="Application.PrincipalLista" />
       <item itemvalue="Application.Principal" />
+      <item itemvalue="Application.PrincipalLista" />
     </list>
     <recent_temporary>
       <list>
